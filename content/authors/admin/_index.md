@@ -71,7 +71,7 @@ work:
     company_url: https://www.doshisha.ac.jp
     company_logo: ''
     date_start: 2025-04-01
-    date_end: present
+    date_end: ''
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
