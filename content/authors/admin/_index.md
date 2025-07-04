@@ -86,22 +86,22 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: AI Engineering
+      - name: '🧠 AI Engineering'
         description: ''
         percent: 80
-        icon: :brain:
+        icon: 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Mahjong
+      - name: '🀄 Mahjong'
         description: ''
         percent: 100
-        icon: 🀄
-      - name: Japanese Sake
+        icon: 
+      - name: '🍶 Japanese Sake'
         description: ''
         percent: 100
-        icon: 🍶
+        icon: 
 
 languages:
   - name: Japanese
