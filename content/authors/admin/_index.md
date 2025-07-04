@@ -89,7 +89,7 @@ skills:
       - name: AI Engineering
         description: ''
         percent: 80
-        icon: 🧠
+        icon: :brain:
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
