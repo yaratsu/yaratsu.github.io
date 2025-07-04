@@ -34,7 +34,7 @@ profiles:
     url: 'a-yara@sigmath.es.osaka-u.ac.jp'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/yaratsu
+    url: https://x.com/yaratsu99
   - icon: brands/instagram
     url: https://www.instagram.com/atsutomo1008
   - icon: brands/github
