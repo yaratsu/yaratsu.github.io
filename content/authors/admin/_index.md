@@ -56,7 +56,7 @@ education:
   - area: PhD in Machine Learning
     institution: The University of Osaka
     date_start: 2024-04-01
-    date_end: present
+    date_end: 2027-03-31
   - area: MEng Machine Learning
     institution: The University of Osaka
     date_start: 2022-04-01
