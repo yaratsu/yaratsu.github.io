@@ -47,10 +47,10 @@ profiles:
     url:
 
 interests:
-  - Machine Learning
+  - Theory of Machine Learning
   - Mathematical Statistics
   - Deep Learning
-  - Unsupervised Learning
+  - Statistical Learning Theory
 
 education:
   - area: PhD in Machine Learning
@@ -120,6 +120,6 @@ awards:
 
 ## About Me
 
-Atsutomo Yara is a PhD student in Machine Learning at the Graduate School of Engineering Science, Osaka University.
+Atsutomo Yara is a PhD student in Machine Learning at the Graduate School of Engineering Science, The University of Osaka.
 His superviser is [Yoshikazu Terada](https://sites.google.com/site/teradahp/home).
 His research interests include the theoretical foundations of machine learning and mathematical statistics.
