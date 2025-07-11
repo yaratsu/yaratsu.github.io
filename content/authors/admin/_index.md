@@ -66,7 +66,7 @@ education:
     date_start: 2018-04-01
     date_end: 2022-03-31
 
-work:
+experience:
   - position: Teaching Assistant
     company_name: Doshisha University
     company_url: https://www.doshisha.ac.jp
