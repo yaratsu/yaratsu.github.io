@@ -73,48 +73,13 @@ work:
     date_start: 2025-04-01
     date_end: ''
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 100
-        icon: python
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: '🧠 AI Engineering'
-        description: ''
-        percent: 80
-        icon: 
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: '🀄 Mahjong'
-        description: ''
-        percent: 100
-        icon: 
-      - name: '🍶 Japanese Sake'
-        description: ''
-        percent: 100
-        icon: 
-
-languages:
-  - name: Japanese
-    percent: 100
-  - name: English
-    percent: 50
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Presentation Award, the Japanese Joint Statistical Meeting 2024
+    date: 2024-09-05
     url: https://pub.confit.atlas.jp/en/event/jfssa2024
 ---
 
