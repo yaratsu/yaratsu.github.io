@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 屋良 淳朝
+title: Atsutomo Yara (屋良 淳朝)
 
 # Name pronunciation (optional)
-name_pronunciation: Atsutomo Yara
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Atsutomo
-last_name: Yara
+first_name: Atsutomo (淳朝)
+last_name: Yara (屋良)
 
 # Status emoji
 status:
