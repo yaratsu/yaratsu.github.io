@@ -20,7 +20,7 @@ sections:
   - block: collection
     id: domestic
     content:
-      title: "Domestic Conferences"
+      title: "Domestic Conferences (国内会議, in Japanese)"
       count: 0
       filters:
         folders:
