@@ -7,13 +7,12 @@ sections:
     id: intl
     content:
       title: "International Conferences"
-      text: ""
       count: 0
       filters:
         folders:
-          - presentations
+          - presentation
         tag: "International Conference"
-      sort_by: "Date"
+      sort_by: Date
       sort_ascending: false
     design:
       view: compact
@@ -22,13 +21,12 @@ sections:
     id: domestic
     content:
       title: "Domestic Conferences"
-      text: ""
       count: 0
       filters:
         folders:
-          - presentations
+          - presentation
         tag: "Domestic Conference"
-      sort_by: "Date"
+      sort_by: Date
       sort_ascending: false
     design:
       view: compact
