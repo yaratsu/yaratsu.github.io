@@ -11,7 +11,7 @@ sections:
       count: 0
       filters:
         folders:
-          - presentation
+          - presentations
         tag: "International Conference"
       sort_by: "Date"
       sort_ascending: false
@@ -26,7 +26,7 @@ sections:
       count: 0
       filters:
         folders:
-          - presentation
+          - presentations
         tag: "Domestic Conference"
       sort_by: "Date"
       sort_ascending: false
