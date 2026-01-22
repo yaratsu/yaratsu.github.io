@@ -11,7 +11,7 @@ event_url: "https://jgsc2023.ywstat.jp/"
 
 location: "Seminar Room, Frontier Research in Applied Sciences Building, Hokkaido University, Japan"
 
-abstract: >
+abstract: 
 
 # 分類用
 tags:
