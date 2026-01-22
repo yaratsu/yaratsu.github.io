@@ -10,7 +10,7 @@ sections:
       count: 0
       filters:
         folders:
-          - presentations
+          - event
         tag: "International Conference"
       sort_by: Date
       sort_ascending: false
@@ -24,7 +24,7 @@ sections:
       count: 0
       filters:
         folders:
-          - presentations
+          - event
         tag: "Domestic Conference"
       sort_by: Date
       sort_ascending: false
