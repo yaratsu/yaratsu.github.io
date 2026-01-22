@@ -4,13 +4,14 @@ date: 2024-05-24
 
 authors:
   - admin
+  - Yoshikazu Terada
 
 event: "計算機統計学会 第38回大会"
 event_url: ""
 
 location: "やまぎん県民ホール"
 
-abstract: >
+abstract: 
 
 # 分類用
 tags:

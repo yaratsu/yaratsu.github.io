@@ -75,9 +75,11 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Presentation Award, the Japanese Joint Statistical Meeting 2024
-    date: 2024-09-05
+  - title: Presentation award, competition session in the annual meeting of the Japanese Federation of Statistical Science Associations in 2024
+    date: 2024-09
     url: https://pub.confit.atlas.jp/en/event/jfssa2024
+  - title: ISI Tokyo Memorial Award
+    date: 2025-09
 ---
 
 ## About Me
