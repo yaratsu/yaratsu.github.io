@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Atsutomo Yara"
+title: "Atsutomo Yara (屋良 淳朝)"
 date: 2022-10-24
 type: landing
 
