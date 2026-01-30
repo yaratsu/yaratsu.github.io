@@ -77,9 +77,9 @@ work:
 awards:
   - title: Presentation award, competition session in the annual meeting of the Japanese Federation of Statistical Science Associations in 2024
     url: https://pub.confit.atlas.jp/en/event/jfssa2024
-    date: 'September 2024'
+    date: '2024-09-01'
   - title: ISI Tokyo Memorial Award
-    date: 'September 2025'
+    date: '2025-09-01'
 ---
 
 ## About Me
