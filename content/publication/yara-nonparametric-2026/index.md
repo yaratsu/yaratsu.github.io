@@ -1,0 +1,38 @@
+---
+title: Nonparametric logistic regression with deep learning
+authors:
+- Atsutomo Yara
+- Yoshikazu Terada
+date: '2026-05-01'
+publishDate: '2026-01-31T00:33:52.896652Z'
+publication_types:
+- article-journal
+publication: '*Bernoulli*'
+doi: 10.3150/25-BEJ1887
+abstract: Consider the nonparametric logistic regression problem. In the logistic
+  regression, we usually consider the maximum likelihood estimator, and the excess
+  risk is the expectation of the Kullback-Leibler (KL) divergence between the true
+  and estimated conditional class probabilities. However, in the nonparametric logistic
+  regression, the KL divergence could diverge easily, and thus, the convergence of
+  the excess risk is difficult to prove or does not hold. Several existing studies
+  show the convergence of the KL divergence under strong assumptions. In most cases,
+  our goal is to estimate the true conditional class probabilities. Thus, instead
+  of analyzing the excess risk itself, it suffices to show the consistency of the
+  maximum likelihood estimator in some suitable metric. In this paper, using a simple
+  unified approach for analyzing the nonparametric maximum likelihood estimator (NPMLE),
+  we directly derive convergence rates of the NPMLE in the Hellinger distance under
+  mild assumptions. Although our results are similar to the results in some existing
+  studies, we provide simple and more direct proofs for these results. As an important
+  application, we derive convergence rates of the NPMLE with fully connected deep
+  neural networks and show that the derived rate nearly achieves the minimax optimal
+  rate.
+tags:
+- classification
+- Conditional probability estimation
+- Deep neural networks
+- nonparametric estimation
+links:
+- name: URL
+  url: 
+    https://projecteuclid.org/journals/bernoulli/volume-32/issue-2/Nonparametric-logistic-regression-with-deep-learning/10.3150/25-BEJ1887.full
+---
