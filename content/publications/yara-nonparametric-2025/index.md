@@ -3,7 +3,7 @@ title: Nonparametric logistic regression with deep learning
 authors:
 - Atsutomo Yara
 - Yoshikazu Terada
-date: '2025-02-01'
+date: '2026-05-01'
 publishDate: '2025-07-04T04:44:45.496549Z'
 publication_types:
 - manuscript
