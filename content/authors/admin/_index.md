@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'a-yara@sigmath.es.osaka-u.ac.jp'
+    url: 'mailto:a-yara@sigmath.es.osaka-u.ac.jp'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/yaratsu99
@@ -40,11 +40,11 @@ profiles:
   - icon: brands/github
     url: https://github.com/yaratsu
   - icon: brands/linkedin
-    url:
+    url: https://www.linkedin.com/in/%E6%B7%B3%E6%9C%9D-%E5%B1%8B%E8%89%AF-690b38253/
   - icon: academicons/google-scholar
-    url:
-  - icon: academicons/orcid
-    url:
+    url: https://scholar.google.com/citations?hl=en&user=O5vrjrEAAAAJ
+  # - icon: academicons/orcid
+  #   url:
 
 interests:
   - Theory of Machine Learning
