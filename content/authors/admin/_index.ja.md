@@ -6,7 +6,7 @@ status:
   icon: 🀄️
 superuser: true
 highlight_name: true
-role: 博士後期課程学生
+role: 博士後期課程3年
 organizations:
   - name: 大阪大学
     url: https://www.osaka-u.ac.jp/
@@ -39,6 +39,11 @@ education:
     date_start: 2018-04-01
     date_end: 2022-03-31
 work:
+  - position: BOOST （次世代AI人材育成プログラム）
+    company_name: JST（科学技術振興機構）
+    company_url: https://www.jst.go.jp/jisedai/boost-s/index.html
+    date_start: 2024-04-01
+    date_end: ''
   - position: 実習助手
     company_name: 同志社大学
     company_url: https://www.doshisha.ac.jp
@@ -55,5 +60,5 @@ awards:
 
 ## About me
 
-大阪大学大学院基礎工学研究科数理科学領域，[寺田研究室](https://sites.google.com/view/terada-lab/)に在籍する博士後期課程学生です．
+大阪大学大学院基礎工学研究科数理科学領域，[寺田研究室](https://sites.google.com/view/terada-lab/)に在籍する博士後期課程の3年生です．
 主に機械学習の理論・数理統計学に興味を持ち研究に取り組んでいます．

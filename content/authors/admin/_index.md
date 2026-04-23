@@ -63,6 +63,11 @@ education:
     date_end: 2022-03-31
 
 work:
+  - position: BOOST (Broadening Opportunities for Outstanding young researchers and doctoral students in STrategic areas)
+    company_name: JST (Japan Science and Technology Agency)
+    company_url: https://www.jst.go.jp/jisedai/boost-s/index.html
+    date_start: 2024-04-01
+    date_end: ''
   - position: Teaching Assistant
     company_name: Doshisha University
     company_url: https://www.doshisha.ac.jp
@@ -87,3 +92,4 @@ awards:
 Atsutomo Yara is a PhD student in Machine Learning at the Graduate School of Engineering Science, The University of Osaka.
 His superviser is [Yoshikazu Terada](https://sites.google.com/site/teradahp/home).
 His research interests include the theoretical foundations of machine learning and mathematical statistics.
+He has been selected for the [JST BOOST](https://www.jst.go.jp/jisedai/boost-s/index.html) program (Japan Science and Technology Agency).
