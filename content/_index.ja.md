@@ -35,8 +35,8 @@ sections:
       view: citation
   - block: resume-experience
     content:
+      title: 職歴
       username: admin
-    title: 職歴
     design:
       date_format: '2006年1月'
       is_education_first: false
