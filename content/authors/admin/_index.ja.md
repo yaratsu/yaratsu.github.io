@@ -25,7 +25,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=O5vrjrEAAAAJ
 interests:
-  - 機械学習理論
+  - 機械学習の理論
   - 数理統計
   - 深層学習
   - 統計的学習理論
@@ -39,22 +39,21 @@ education:
     date_start: 2018-04-01
     date_end: 2022-03-31
 work:
-  - position: ティーチングアシスタント
+  - position: 実習助手
     company_name: 同志社大学
     company_url: https://www.doshisha.ac.jp
     company_logo: ''
     date_start: 2025-04-01
     date_end: ''
 awards:
-  - title: 2024年度統計関連学会連合大会 コンペティション部門発表賞
+  - title: 2024年度統計関連学会連合大会 コンペティションセッション優秀報告賞
     url: https://pub.confit.atlas.jp/en/event/jfssa2024
     date: '2024-09-01'
-  - title: ISI Tokyo Memorial Award
+  - title: 第4回ISI東京⼤会記念奨励賞
     date: '2025-09-01'
 ---
 
-## 自己紹介
+## About me
 
-屋良淳朝は大阪大学大学院基礎工学研究科の機械学習分野に在籍する博士後期課程学生です。
-指導教員は [寺田善一](https://sites.google.com/site/teradahp/home) 先生です。
-研究テーマは機械学習理論と数理統計です。
+大阪大学大学院基礎工学研究科数理科学領域，[寺田研究室](https://sites.google.com/view/terada-lab/)に在籍する博士後期課程学生です．
+主に機械学習の理論・数理統計学に興味を持ち研究に取り組んでいます．
