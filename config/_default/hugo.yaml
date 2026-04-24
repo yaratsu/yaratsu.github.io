@@ -16,6 +16,11 @@ defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
+languages:
+  en:
+    weight: 1
+  ja:
+    weight: 2
 
 ############################
 ## ADVANCED
@@ -52,5 +57,10 @@ markup:
     lineNos: false
 security:
   _merge: deep
+# sitemap:
+#   _merge: deep
 sitemap:
   _merge: deep
+  changefreq: weekly
+  priority: 0.5
+  filename: sitemap.xml
