@@ -40,7 +40,7 @@ permalinks:
   authors: '/author/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, headers, redirects, backlinks]
+  home: [HTML, RSS, sitemap, headers, redirects, backlinks]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
@@ -60,7 +60,6 @@ security:
 # sitemap:
 #   _merge: deep
 sitemap:
-  _merge: deep
-  changefreq: weekly
+  changeFreq: weekly
   priority: 0.5
   filename: sitemap.xml
