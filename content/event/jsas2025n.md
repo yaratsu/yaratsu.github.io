@@ -20,5 +20,5 @@ tags:
 # 発表資料リンク
 links:
   - name: Slides
-    url: "/slides/jscs38t.pdf"
+    url: "/slides/applied-statistics-2025.pdf"
 ---
