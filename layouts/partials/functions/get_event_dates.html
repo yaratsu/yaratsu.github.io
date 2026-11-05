@@ -1,0 +1,21 @@
+{{/* Display only the presentation date and time fields that are known. */}}
+{{ $str := slice }}
+{{ if not .Date.IsZero }}
+  {{ $t1 := .Date }}
+  {{ $show_time := .Params.event_time_known | default false }}
+  {{ $str = $str | append (time.Format ":date_long" $t1) }}
+  {{ if and $show_time (not .Params.all_day) }}
+    {{ $str = $str | append (time.Format site.Params.locale.time_format $t1) }}
+  {{ end }}
+  {{ with .Params.date_end }}
+    {{ $t2 := time . }}
+    {{ $str = $str | append "&mdash;" }}
+    {{ if ne ($t1.Format "2006-01-02") ($t2.Format "2006-01-02") }}
+      {{ $str = $str | append (time.Format ":date_long" $t2) }}
+    {{ end }}
+    {{ if and $show_time (not $.Params.all_day) }}
+      {{ $str = $str | append (time.Format site.Params.locale.time_format $t2) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ return ((delimit $str " ") | safeHTML) }}

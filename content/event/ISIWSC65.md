@@ -2,6 +2,7 @@
 title: "On maximum likelihood estimation of intensity function for Poisson process with deep learning"
 date: "2025-10-07T16:00:00+02:00"
 date_end: "2025-10-07T17:00:00+02:00"
+event_time_known: true
 
 authors:
   - admin
@@ -24,5 +25,3 @@ links:
   - name: Poster
     url: "/slides/isi-wsc-2025-poster.pdf"
 ---
-
-Poster 31. Presentation time: 7 October 2025, 16:00–17:00 (local time).
