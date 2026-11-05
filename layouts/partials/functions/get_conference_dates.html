@@ -1,0 +1,14 @@
+{{/* Format a confirmed conference period independently of the presentation date. */}}
+{{ $str := slice }}
+{{ with .Params.conference_start }}
+  {{ $start := time . }}
+  {{ $label := $.Params.conference_date_label | default "Conference dates" }}
+  {{ $str = slice (printf "%s: %s" $label (time.Format ":date_long" $start)) }}
+  {{ with $.Params.conference_end }}
+    {{ $end := time . }}
+    {{ if ne ($start.Format "2006-01-02") ($end.Format "2006-01-02") }}
+      {{ $str = $str | append "–" (time.Format ":date_long" $end) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ return (delimit $str " ") }}

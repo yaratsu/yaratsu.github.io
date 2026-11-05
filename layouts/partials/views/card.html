@@ -1,4 +1,5 @@
 {{ $item := .item }}
+{{ $conference_dates := partial "functions/get_conference_dates" $item }}
 
 {{ $link := $item.RelPermalink }}
 {{ $target := "" }}
@@ -24,7 +25,9 @@
       <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
         {{ ($item.Params.summary | default $item.Summary) | plainify | htmlUnescape | chomp -}}
       </p>
-      {{ if not $item.Date.IsZero }}
+      {{ if $conference_dates }}
+      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">{{ $conference_dates }}</p>
+      {{ else if not $item.Date.IsZero }}
       <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">
         {{- $item.Date | time.Format (site.Params.locale.date_format | default ":date_long") -}}
       </p>

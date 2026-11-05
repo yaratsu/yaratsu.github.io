@@ -1,6 +1,9 @@
 {{/* Display only the presentation date and time fields that are known. */}}
 {{ $str := slice }}
-{{ if not .Date.IsZero }}
+{{ $conference_dates := partial "functions/get_conference_dates" . }}
+{{ if $conference_dates }}
+  {{ $str = slice $conference_dates }}
+{{ else if not .Date.IsZero }}
   {{ $t1 := .Date }}
   {{ $show_time := .Params.event_time_known | default false }}
   {{ $str = $str | append (time.Format ":date_long" $t1) }}
